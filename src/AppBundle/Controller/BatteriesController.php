@@ -36,7 +36,7 @@ class BatteriesController extends Controller
     }
 
     /**
-     * @Route("/batteries/add")
+     * @Route("/batteries/add", name="add_battery")
      * @param Request $request
      * @return \Symfony\Component\HttpFoundation\RedirectResponse|\Symfony\Component\HttpFoundation\Response
      */
