@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="2015616071">
+    <data-source source="LOCAL" name="Sqlite (Xerial) - console doctrine:database:create" uuid="4f1b07b6-ef10-48a1-a334-50ba6298e3e1">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/app\php bin/console doctrine:database:create</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Sqlite (Xerial) - data.db3" uuid="46ebb492-cac7-41d9-b127-6eabe5fce236">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:$PROJECT_DIR$/app/data.db3</jdbc-url>
+    </data-source>
+  </component>
+</project>

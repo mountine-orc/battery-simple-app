@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+<h1>Batteries total:</h1>
+<table>
+    {% for battery in batteries %}
+        <tr><td>{{ battery.type }}</td><td>{{ battery.amount }}</td></tr>
+    {% endfor %}
+</table>
+{% endblock %}
