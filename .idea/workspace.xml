@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="15479943-cc9a-4d9e-8d19-253d2accf00f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/data.db3" afterPath="$PROJECT_DIR$/app/data.db3" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/composer.lock" afterPath="$PROJECT_DIR$/composer.lock" />
     </list>
     <ignored path="workshop11.iws" />
@@ -517,12 +516,12 @@
       <option name="presentableId" value="Default" />
       <updated>1460975357495</updated>
       <workItem from="1460975358821" duration="12290000" />
-      <workItem from="1461056561277" duration="13509000" />
+      <workItem from="1461056561277" duration="13632000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25799000" />
+    <option name="totallyTimeSpent" value="25922000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
