@@ -6,13 +6,6 @@ use Symfony\Bundle\FrameworkBundle\Test\WebTestCase;
 
 class BatteriesControllerTest extends WebTestCase
 {
-    public function testHomepageIsWorking()
-    {
-        $client = static::createClient();
-        $crawler = $client->request('GET', '/');
-        $this->assertGreaterThan(0, $crawler->filter('html:contains("Battery project")')->count());
-    }
-
     public function testForm()
     {
         $client = static::createClient();
